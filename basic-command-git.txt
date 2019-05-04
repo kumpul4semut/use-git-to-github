@@ -4,11 +4,12 @@
 
 
 - git add . (to add to working area all changed)
-- git add [name file]
+- git add [name file] (add for spesifict file)
 - git commint -m "[input message]"
 - git status (check canged added not to working)
-- git clone [url repositori] ->clone public repo
+- git clone [url repositori] (clone public repo)
 - git clone https://username@[url repo] (clone private)
-- git push
-- git full
-- ssh-keygen -t rsa -C "[Email]"
+- git push (next input username & password for upload)
+- git branch [NameBranch] (Move branch)
+- git log (see log all commit)
+- ssh-keygen -t rsa -C "[Email]" (add key github by email)
