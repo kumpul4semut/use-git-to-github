@@ -2,7 +2,7 @@
 1.[] => for changed
 2.() => short information
 
-
+- git init [name folder] (for inisal this folder to git)
 - git add . (to add to working area all changed)
 - git add [name file] (add for spesifict file)
 - git commint -m "[input message]"
