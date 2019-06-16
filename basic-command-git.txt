@@ -13,3 +13,4 @@
 - git branch [NameBranch] (Move branch)
 - git log (see log all commit)
 - ssh-keygen -t rsa -C "[Email]" (add key github by email)
+- git pull origin master (to update local from github)
