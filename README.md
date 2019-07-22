@@ -65,4 +65,7 @@ git branch -d [name_branch]
 ```
 git branch
 ```
-
+- graph git
+```
+ alias graph="git log --all --decorate --oneline --graph"
+```
