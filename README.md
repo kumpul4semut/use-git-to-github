@@ -57,4 +57,8 @@ git checkout [name_branch]
 git checkout master
 git merge [name_branch
 ````
+- see all branch
+```
+git branch
+```
 
