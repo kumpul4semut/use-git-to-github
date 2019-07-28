@@ -86,3 +86,7 @@ git push origin --delete [branch_name_do_delete]
 ```
 git rebase [branch_name]
 ```
+-gitignore untuk mengabaikan file yg tidak mau di pantau git
+```
+Creare file .gitignore
+```
