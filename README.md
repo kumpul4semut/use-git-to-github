@@ -82,3 +82,7 @@ git merge [remote_name/name_branch]
 ```
 git push origin --delete [branch_name_do_delete]
 ```
+- other merge use gi rebase
+```
+git rebase [branch_name]
+```
