@@ -34,7 +34,8 @@ git clone https://username@[url repo]
 ```
 - next input username & password for upload
 ```
-git push
+git push [remote_name] [branch_github]
+ex git push origin master
 ```
 - to update local from github
 ```
