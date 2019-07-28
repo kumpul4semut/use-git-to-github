@@ -69,3 +69,7 @@ git branch
 ```
  alias graph="git log --all --decorate --oneline --graph"
 ```
+- update origin remote
+```
+git fetch [name_remote]
+```
