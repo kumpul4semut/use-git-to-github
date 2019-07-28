@@ -73,3 +73,7 @@ git branch
 ```
 git fetch [name_remote]
 ```
+- merge remote
+```
+git merge [remote_name/name_branch]
+```
