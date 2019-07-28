@@ -78,3 +78,7 @@ git fetch [name_remote]
 ```
 git merge [remote_name/name_branch]
 ```
+- delete branch on github use git
+```
+git push origin --delete [branch_name_do_delete]
+```
