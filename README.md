@@ -90,3 +90,11 @@ git rebase [branch_name]
 ```
 Creare file .gitignore
 ```
+-fix git ignore not work
+```
+git rm -r --cached .
+
+git add .
+
+git commit -m "fixing .gitignore"
+```
