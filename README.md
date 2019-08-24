@@ -98,3 +98,7 @@ git add .
 
 git commit -m "fixing .gitignore"
 ```
+-git error: failed to push some refs to
+```
+git pull --rebase
+```
